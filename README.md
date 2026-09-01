@@ -345,15 +345,15 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots of proteus  :
 
+<img width="1207" height="982" alt="image" src="https://github.com/user-attachments/assets/1b27b5b3-a903-4625-802c-12e3c232d863" />
 
-<img width="1128" height="886" alt="image" src="https://github.com/user-attachments/assets/aff5239b-670d-4414-9a6c-7b95e1a0bc84" />
 
 
 ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE):
 
 
-<img width="1207" height="982" alt="image" src="https://github.com/user-attachments/assets/1b27b5b3-a903-4625-802c-12e3c232d863" />
 
+<img width="1128" height="886" alt="image" src="https://github.com/user-attachments/assets/aff5239b-670d-4414-9a6c-7b95e1a0bc84" />
 
 
  
